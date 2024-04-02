@@ -9,7 +9,7 @@ Welcome to the Unity AR Furniture project repository! This project allows users 
 - [X] **Rotation and Movement**: Enables users to rotate and move furniture objects for optimal placement and visualization.
 - [X] **Real-World Size**: Ensures that furniture objects appear in AR with accurate real-world proportions.
 
-##Getting Started:
+## Getting Started:
 
 1. **Clone the Repository**: Clone this repository to your local machine using git clone https://github.com/MVWRENCH/ARTisan-Home-AR.git.
 
