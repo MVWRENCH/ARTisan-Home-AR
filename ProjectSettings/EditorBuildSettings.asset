@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e8d099ac2b20cda40a6255a0844dba5b
+  - enabled: 1
+    path: Assets/Scenes/Chair.unity
+    guid: 27fd5682864ccba479e66b1f7afd45e1
+  - enabled: 1
+    path: Assets/Scenes/Drawer.unity
+    guid: 0fcc8a95856632f488ac30eb681bfa28
+  - enabled: 1
+    path: Assets/Scenes/Shelf.unity
+    guid: c525696346a176f47b020a095f010a3a
+  - enabled: 1
+    path: Assets/Scenes/Sofa.unity
+    guid: 23af4452447a25846901c41b5bac9fea
+  - enabled: 1
+    path: Assets/Scenes/Table.unity
+    guid: 38eae56efce306e41a062be94daefa6d
+  - enabled: 1
+    path: Assets/Scenes/Bed.unity
+    guid: d149d4e8c6855234688a48aab106d0ca
+  - enabled: 1
+    path: Assets/Scenes/Electronics.unity
+    guid: 9cc08027cc6005a409222b9bd2708ce9
+  - enabled: 1
+    path: Assets/Scenes/Decoration.unity
+    guid: 2e9e3834d7835904f8d33df73341c77e
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6ee72d15cf39dd748a13eac57397b9af,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 0465d33c6aee55f44b0237db8b0e0259,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: c199e683398494f32b4cde18e73ab731,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 0b53a025a635a4393ba0b49822242280,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3fd4fc0127790db4bae83f7b77da8d45,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: b07c4ba7650be4c25b3d0c497e7e2bb8,
+      type: 2}
