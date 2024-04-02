@@ -43,7 +43,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 Please ensure that your contributions adhere to the coding standards and conventions used in the project.
 
 
-## Screenshot
+## Screenshots
 ![Alt text](/Screenshots/09609840-5ccc-4788-96ad-5e44972750a7.jpeg?raw=true "Greeting Message")
 ![Alt text](/Screenshots/3201f5e2-0e2b-4801-9efc-fa0d4dc454fd.jpeg?raw=true "Category Menu UI")
 ![Alt text](/Screenshots/814c00ea-c2c7-4d6c-9c5e-4b7a2a28a54a.jpeg?raw=true "Main UI")
